@@ -2,6 +2,7 @@
 #define LED_PIN 2
 #define NUM_LEDS 230
 
+
 word ValA0=0;
 float ValA0_f=0.0;
 
